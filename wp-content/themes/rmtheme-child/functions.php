@@ -265,3 +265,5 @@ function display_cta_shortcode_meta_box($post) {
     echo '<textarea readonly style="width:100%; height:150px;" onclick="this.select();">' . esc_textarea($shortcode) . '</textarea>';
     echo '<p style="font-size: 12px;">Copy this shortcode and paste it where you want the CTA block to appear. You can also modify the colors directly in the shortcode.</p>';
 }
+
+
