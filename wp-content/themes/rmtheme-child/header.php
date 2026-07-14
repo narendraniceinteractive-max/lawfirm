@@ -54,7 +54,7 @@
                         ));
                         ?>
                     </nav>
-                    <div class="header-number"><strong>Schedule a Call</strong><a href="tel:9876543213">9876543213</a></div>
+                    <div class="header-number"><strong>Varma</strong><a href="tel:9876543213">9876543213</a></div>
                 </div>
             </div>
             <div class="mobile_src_nav">
